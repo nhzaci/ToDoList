@@ -68,5 +68,12 @@ flutter:
   #       - asset: fonts/TrajanPro_Bold.ttf
   #         weight: 700
   #
+  fonts:
+    - family: Roboto
+      fonts:
+        - asset: assets/fonts/Roboto-Light.ttf
+    - family: Vogue
+      fonts:
+        - asset: assets/fonts/Vogue.ttf
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/custom-fonts/#from-packages
